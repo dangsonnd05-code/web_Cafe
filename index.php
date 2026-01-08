@@ -151,7 +151,7 @@ footer {
 <body>
 
 <header>
-    ☕ QUÁN CAFE – ĐẶT ĐỒ UỐNG TRỰC TUYẾN
+    ☕ KIOH COFFEE – ĐẶT ĐỒ UỐNG TRỰC TUYẾN
 </header>
 
 <div class="container">
@@ -205,9 +205,10 @@ foreach ($_SESSION['cart'] as $id => $qty):
 </div>
 
 <footer>
-    © 2026 – QUÁN CAFE | Môn Điện Toán Đám Mây
+    © 2026 – KIOH COFFÊ | Môn Điện Toán Đám Mây
 </footer>
 
 </body>
 </html>
+
 
